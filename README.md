@@ -3,7 +3,7 @@
 ----------
 
 ## About FLASS ##
- This is the Project further visualizing your LASS Data from Freeboard, Thingspeak, Slack on Docker Cloud and Node-RED contributed by [frrut.com](http://frrut.com)
+ This is the Project further visualizing your LASS Data onto Freeboard, Thingspeak, Slack on Docker Cloud and Node-RED contributed by [frrut.com](http://frrut.com)
  
 ## LASS official code##
 The configuration setting on configuration.h only. The code is originally from LASS for Linkit One Board, you can also download from official web site for modification too. Please visit [http://frrut.com/flass/](http://frrut.com/flass/ "FLASS") for video tutorials.  
